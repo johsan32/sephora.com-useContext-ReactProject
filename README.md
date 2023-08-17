@@ -24,7 +24,7 @@
 
 
 ## Preview
-![print-screen](screen.jpeg)
+![print-screen](screen.jpg)
 
 ![gif](gif.gif)
 
